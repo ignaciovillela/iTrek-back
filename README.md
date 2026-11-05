@@ -4,6 +4,8 @@ API REST en **Django + Django REST Framework** de [iTrek](https://github.com/ign
 
 > Proyecto personal desarrollado entre **septiembre y diciembre de 2024** (35 commits).
 
+📱 **App móvil (Flutter):** [ignaciovillela/iTrek-front](https://github.com/ignaciovillela/iTrek-front)
+
 ![Detalle de una ruta en la app](docs/detail.png)
 
 *Maqueta de la pantalla de detalle de la app, que consume esta API.*
